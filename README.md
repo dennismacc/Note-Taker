@@ -16,6 +16,8 @@ This project involves building the back end for an application called Note Taker
 
 
 ## Preview 📸
+https://user-images.githubusercontent.com/100378792/179866274-3c116e11-90ce-4199-8243-52732c277996.mov
+
 
 
 ## Installation 📥

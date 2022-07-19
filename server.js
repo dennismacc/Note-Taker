@@ -19,7 +19,7 @@ app.listen(PORT, () => {
 });
 
 // Call the API Routes
-app.use("/api", apiRoutes);
+app.use("/", apiRoutes);
 // Call the HTML Routes
 app.use("/", htmlRoutes);
 
